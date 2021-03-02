@@ -32,5 +32,9 @@ status-website:
     - title: Contact
       href: mailto:contact@silentsoft.org
 
+commitMessages:
+  commitAuthorName: "silentsoft"
+  commitAuthorEmail: "silentsoft@users.noreply.github.com"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
